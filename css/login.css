@@ -1,0 +1,28 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  
+}
+
+.formlogin {
+  max-width: 400px;
+  padding: 15px;
+  margin: 0 auto;
+  border: solid 1px #eee;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+}
+.formlogin {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.error{
+  margin-top: 30px;
+}
